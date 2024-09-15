@@ -1,7 +1,7 @@
 使用方法
 
-1.到src底下下 mvn clean package
-第二步執行所需參數如下
+1.到此專案底下(看到src目錄)執行 mvn clean package
+第二步執行各程式所需參數如下
 
 Sorting
 
